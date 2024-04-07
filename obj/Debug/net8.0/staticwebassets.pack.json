@@ -1,0 +1,661 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\animate.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\carousel.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\colors.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\version\\food.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\version\\food.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\version\\garden.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\version\\garden.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\version\\marketing.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\version\\marketing.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\css\\version\\tech.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\version\\tech.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\ads-bg.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\ads-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\vendors\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\flogo.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\flogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\footer.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\hover.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\hover.png"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\vendors\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\logo.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\menubg.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\menubg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\images\\videohover.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\videohover.png"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\animate.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\animate.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\custom.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\food-map.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\food-map.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\garden-map.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\garden-map.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\masonry.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\js\\tether.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\tether.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\style.css",
+      "PackagePath": "staticwebassets\\vendors\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\author.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\author_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\author_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\author_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\author_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\author_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\author_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\banner_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\banner_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\banner_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\banner_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\banner_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\banner_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\banner_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\banner_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\banner_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\banner_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\banner_06.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\banner_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\banner_07.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\banner_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog-custom_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog-custom_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_06.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_07.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_08.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_09.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_10.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_11.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_12.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_custom_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_custom_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_custom_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_custom_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_custom_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_custom_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_custom_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_custom_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_custom_06.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_custom_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_custom_07.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_custom_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_masonry_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_masonry_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_masonry_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_masonry_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_masonry_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_masonry_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_masonry_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_masonry_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_masonry_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_masonry_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_06.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_07.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_08.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_09.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_10.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_11.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_12.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_13.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_14.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_15.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_16.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_square_17.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_square_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_06.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_07.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_08.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_09.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_10.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_11.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\blog_travel_12.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\blog_travel_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\cta.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\cta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\cta_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\cta_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\demo_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\demo_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\demo_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\demo_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\demo_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\demo_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\demo_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\demo_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\demo_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\demo_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_01.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_01.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_02.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_02.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_03.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_03.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_04.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_04.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_05.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_05.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_06.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_06.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_07.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_07.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_08.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_08.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\insta_09.jpeg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\insta_09.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_06.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_07.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_08.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_09.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_11.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_12.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_13.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_14.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_15.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_16.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_17.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_18.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_19.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_20.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_21.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_22.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_23.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_24.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_25.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\menu_26.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\menu_26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_01.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_02.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_03.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_04.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_05.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_06.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_07.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_08.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victus\\Desktop\\Final Layihesi\\Mvc\\WebUI\\wwwroot\\vendors\\upload\\small_09.jpg",
+      "PackagePath": "staticwebassets\\vendors\\upload\\small_09.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebUI.props",
+      "PackagePath": "build\\WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebUI.props",
+      "PackagePath": "buildTransitive\\WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
