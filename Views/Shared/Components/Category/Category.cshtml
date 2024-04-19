@@ -1,0 +1,7 @@
+@model List<Category>
+
+
+@foreach(var cat in Model)
+{
+     <button class="tablinks" onclick="openCategory(event, 'cat03')">@cat.CategoryName</button>
+}

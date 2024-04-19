@@ -1,0 +1,45 @@
+@model Dictionary<string, List<Article>>
+
+<!-- Kategori düğmeleri -->
+<div class="category-buttons">
+    @foreach (var category in Model)
+    {
+        <button type="button" class="btn btn-primary" onclick="filterArticles('@category.Key')">@category.Key</button>
+    }
+</div>
+
+<!-- Makale listesi -->
+<div id="articleList">
+    @foreach (var category in Model)
+    {
+        <div class="article-category" id="@category.Key">
+            <h2>@category.Key</h2>
+            <div class="row">
+                @foreach (var article in category.Value)
+                {
+                    <div class="col-md-4 mb-3">
+                        <div class="card">
+                            <img src="@article.PhotoUrl" class="card-img-top" alt="@article.Title">
+                            <div class="card-body">
+                                <h5 class="card-title">@article.Title</h5>
+                                <p class="card-text">@article.Content</p>
+                                <a href="#" class="btn btn-primary">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+</div>
+
+@section scripts{
+    <script>
+        function filterArticles(category) {
+            // Tüm makale kategorilerini gizle
+            $('.article-category').hide();
+            // Seçilen kategoriyi göster
+            $('#' + category).show();
+        }
+    </script>
+}
